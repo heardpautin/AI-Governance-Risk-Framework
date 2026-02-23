@@ -1,0 +1,95 @@
+
+
+# AI Risk Posture Summary
+
+Reporting Period: Q1  
+Prepared By: Governance & Compliance  
+Date: [Insert Date]
+
+---
+
+## Executive Overview
+
+The organization currently operates eight documented AI systems across Corporate IT, Human Resources, Procurement, Operations, Finance, Development, and Customer Support functions.
+
+An AI governance assessment was conducted to evaluate:
+
+- Data exposure
+- Regulatory impact
+- Access control maturity
+- Operational and financial risk
+
+---
+
+## AI Footprint Summary
+
+Total AI Systems: 8  
+High Risk Systems: 3  
+Medium Risk Systems: 3  
+Medium-High Systems: 1  
+Low Risk Systems: 1  
+
+Regulatory Exposure:
+- SOX Impact: Yes
+- HIPAA / Privacy Impact: Yes
+- Intellectual Property Risk: Yes
+- Operational Impact Systems: Yes
+
+Access Review Compliance:
+- High-Risk Systems Reviewed Quarterly
+- Medium-Risk Systems Reviewed Semi-Annually
+- Low-Risk Systems Reviewed Annually
+
+---
+
+## Key Risk Areas
+
+1. Privacy and PII Exposure  
+HR and Customer Support AI systems process regulated personal data. Misconfiguration or improper access controls could result in privacy violations.
+
+2. Financial and SOX Exposure  
+Financial Forecasting and Procurement AI systems impact financial reporting processes and require structured validation controls.
+
+3. Source Code and Intellectual Property Risk  
+AI-assisted development tools present risk of proprietary code exposure or insecure code generation.
+
+4. Generative AI Data Leakage  
+Enterprise generative AI tools present risk of confidential data submission without proper safeguards.
+
+5. Model Governance and Validation  
+Predictive ML systems require periodic validation to prevent operational degradation or inaccurate outputs.
+
+---
+
+## Control Maturity Assessment
+
+Strengths:
+- Formal AI system inventory established
+- Clear Business and Technical ownership assigned
+- Tiered access review model implemented
+- Logging enabled across majority of systems
+- Regulatory impact mapped
+
+Gaps Identified:
+- DLP monitoring not fully implemented for generative AI tools
+- Model validation documentation not standardized
+- Limited logging visibility for development AI tools
+- Third-party AI vendor review process requires formalization
+
+---
+
+## 90-Day Priorities
+
+1. Implement DLP monitoring controls for generative AI systems
+2. Formalize model validation standards for predictive ML systems
+3. Conduct least-privilege IAM review for all high-risk AI systems
+4. Standardize third-party AI vendor review checklist
+5. Establish quarterly AI governance reporting cadence
+
+---
+
+## Overall Risk Rating
+
+Current AI Governance Posture: Moderate
+
+Foundational controls are in place, including inventory management, ownership mapping, access review cadence, and regulatory alignment. Continued monitoring and enhancement of model validation and data protection controls will further reduce regulatory and operational exposure.
