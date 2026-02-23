@@ -1,6 +1,6 @@
 # AI Acceptable Use & Governance Policy
 **Version:** 1.0  
-**Effective Date:** [Insert Date]  
+**Effective Date:** 2/23/2026  
 **Policy Owner:** Director of IT  
 **Approved By:** CISO  
 **Review Cycle:** Annual  
