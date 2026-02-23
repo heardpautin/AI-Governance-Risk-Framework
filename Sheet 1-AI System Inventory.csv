@@ -1,0 +1,9 @@
+System Name,Business Unit,AI Type,Hosting Location,Data Classification,Business Owner,Technical Owner,Internet Exposed,Logging Enabled,Risk Level,Access Review,Regulatory Impact,Purpose
+Gemini (Enterprise),Corporate / IT,Generative AI (LLM),SaaS,Internal,Director of IT,Cloud Security Manager,Yes,Yes,Medium,Semi-Annual,No Direct Regulatory Impact,Draft internal documentation and communications
+Internal HR Chatbot,Human Resources,Conversational AI,Azure App Service,PII,Director of HR,HRIS Manager,No (Internal),Yes,High,Quarterly,HIPAA,Answer employee benefits and policy questions
+AWS Bedrock Model (Procurement),Procurement,Generative AI (LLM),AWS (Private VPC),Confidential,Director of Procurement,ERP Systems Manager,No,Yes,Medium,Quarterly,SOX,Analyze vendor contract language
+Claims Processing ML Model,Operations,Predictive ML,On-Prem + AWS (Hybrid),Operational Data,Director of Operations,Data Engineering Manager,No,Partial,Medium,Semi-Annual,Operational Impact,Predict maintenance issues in water infrastructure
+Email Classification Model,IT / Security,Classification / Detection Model,Microsoft Defender Integration,Internal,Director of IT,Microsoft 365 Admin,Yes,Yes,Low,Annual,No Direct Regulatory Impact,Detect phishing emails
+Code Assistant Tool (Copilot),IT Development,AI-Assisted Development Tool,SaaS,Source Code,Director of IT,DevOps Manager,Yes,Limited,Medium-High,Quarterly,Intellectual Property,Improve developer productivity
+Financial Forecasting AI,Finance,Predictive ML,Third-Party SaaS,Confidential Financial Data,Director of Finance,ERP Application Manager,Yes,Yes,High,Quarterly,SOX,Financial forecasting and budgeting analysis
+Customer Support Virtual Assistant,Customer Support,Generative AI (LLM),Azure Bot Framework,PII,Director of Customer Service,CRM Systems Manager,Yes,Yes,High,Quarterly,Privacy / PII,Respond to billing inquiries
